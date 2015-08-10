@@ -14,7 +14,7 @@ h2 {
     margin-top: -10px;
     background-color: cornflowerblue;
     height: 18px;
-    width: 125px;
+    width: 135px;
     border-radius: 15%;
     border-color: green;
     border-style: solid;
@@ -34,8 +34,9 @@ h2 {
 }
 
 p {
-    font-size: 16px;
+    font-size: 14px;
     font-family: Monospace;
+    text-align: center;
 }
 
 .thick-green-border {
@@ -54,4 +55,34 @@ p {
 }
 #cat-photo-form {
     background-color: green;
+}
+.injected-text {
+    margin-bottom: -25px;
+    text-align: center;
+}
+
+.box {
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    text-align: center;
+    width: 100px;
+}
+
+.yellow-box {
+    background-color: yellow;
+    padding:10px;
+    height: 170px;
+    }
+
+.red-box {
+    background-color:red;
+    padding: 20px;
+    width: 50px;
+}
+
+.green-box {
+    background-color: green;
+    padding: 10px;
+    width: 70px;
 }
