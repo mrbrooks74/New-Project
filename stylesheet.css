@@ -48,3 +48,7 @@ p {
 .smaller-image {
     width: 100px;
 }
+
+.gray-background {
+    background-color: gray;
+}
