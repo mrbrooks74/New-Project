@@ -1,4 +1,4 @@
-body {
+.bodyi {
     margin:0 auto;
     padding:0;
 	width:200px;
@@ -25,9 +25,26 @@ h2 {
     color: purple;
 }
 
-.pull-me{
-    -webkit-box-shadow: 0 0 8px #FFD700;
-    -moz-box-shadow: 0 0 8px #FFD700;
-    box-shadow: 0 0 8px #FFD700;
-    cursor:pointer;
+.red-text {
+    color: red;
+}
+
+h2 {
+    font-family: Lobster, Monospace;
+}
+
+p {
+    font-size: 16px;
+    font-family: Monospace;
+}
+
+.thick-green-border {
+    border-color: green;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 50%;
+}
+
+.smaller-image {
+    width: 100px;
 }
