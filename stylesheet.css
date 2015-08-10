@@ -11,11 +11,10 @@ h2 {
 }
 
 .button {
-    margin-top: -20px;
-    padding-top: 10px;
+    margin-top: -10px;
     background-color: cornflowerblue;
-    height: 20px;
-    width: 250px;
+    height: 18px;
+    width: 125px;
     border-radius: 15%;
     border-color: green;
     border-style: solid;
