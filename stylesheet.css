@@ -4,14 +4,19 @@ body {
 	width:200px;
     text-align:center;
 }
+h2 {
+    font-size: medium;
+    font-family: monospace, sans-serif;
+    color: darkorange;
+}
 
 .button {
     margin-top: -20px;
     padding-top: 10px;
-    background-color: red;
+    background-color: cornflowerblue;
     height: 20px;
     width: 250px;
-    border-radius: 25%;
+    border-radius: 15%;
     border-color: green;
     border-style: solid;
 
@@ -27,4 +32,3 @@ body {
     box-shadow: 0 0 8px #FFD700;
     cursor:pointer;
 }
-.
