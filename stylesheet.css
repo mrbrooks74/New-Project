@@ -59,6 +59,8 @@ p {
 .injected-text {
     margin-bottom: -25px;
     text-align: center;
+    font-size: 30px;
+    font-style: bold;
 }
 
 .box {
