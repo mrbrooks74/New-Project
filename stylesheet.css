@@ -1,0 +1,30 @@
+body {
+    margin:0 auto;
+    padding:0;
+	width:200px;
+    text-align:center;
+}
+
+.button {
+    margin-top: -20px;
+    padding-top: 10px;
+    background-color: red;
+    height: 20px;
+    width: 250px;
+    border-radius: 25%;
+    border-color: green;
+    border-style: solid;
+
+}
+
+.button-text {
+    color: purple;
+}
+
+.pull-me{
+    -webkit-box-shadow: 0 0 8px #FFD700;
+    -moz-box-shadow: 0 0 8px #FFD700;
+    box-shadow: 0 0 8px #FFD700;
+    cursor:pointer;
+}
+.
